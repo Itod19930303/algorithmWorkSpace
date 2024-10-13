@@ -1,12 +1,12 @@
 package main;
 
-import serchAlgorithm.lineSerchAlgorithm;
+import serchAlgorithm.serchAlgorithm;
 
 public class main {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		lineSerchAlgorithm LS = new lineSerchAlgorithm();
+		serchAlgorithm SA = new serchAlgorithm();
 		
 	}
 
